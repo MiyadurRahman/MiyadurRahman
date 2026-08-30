@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Meyadur Rahman</h1>
 <h3 align="center">Computer Science Student | Problem Solver | Automation Enthusiast</h3>
